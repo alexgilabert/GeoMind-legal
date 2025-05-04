@@ -2,11 +2,5 @@ theme: jekyll-theme-minimal
 title: GeoMind - Documentos Legales
 description: Políticas de privacidad, términos de servicio y más información legal para la aplicación GeoMind
 show_downloads: false
-google_analytics:
-
-# Personalización adicional
 logo: 
-kramdown:
-  html_to_native: true
-  syntax_highlighter_opts:
-    disable: true
+markdown: kramdown
